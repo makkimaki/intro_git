@@ -1,0 +1,80 @@
+This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019) (preloaded format=xelatex 2019.7.12)  29 AUG 2019 23:32
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**first.tex
+(./first.tex
+LaTeX2e <2018-12-01>
+(/usr/local/texlive/2019/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2018/09/03 v1.4i Standard LaTeX document class
+(/usr/local/texlive/2019/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2018/09/03 v1.4i Standard LaTeX file (size option)
+)
+\c@part=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+) (/usr/local/texlive/2019/texmf-dist/tex/latex/base/inputenc.sty
+Package: inputenc 2018/08/11 v1.3c Input encoding file
+\inpenc@prehook=\toks14
+\inpenc@posthook=\toks15
+
+
+Package inputenc Warning: inputenc package ignored with utf8 based engines.
+
+) (/Users/makkimaki/Desktop/intro_git/.texpadtmp/first.aux)
+\openout1 = `first.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+Missing character: There is no 基 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 本 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 的 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no な in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no ワ in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no ー in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no ク in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no フ in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no ロ in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no ー in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no を in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 学 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no び in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no ま in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no す in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no ． in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no ・ in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no ・ in font [lmroman10-regular]:mapping=tex-text;!
+ [1
+
+] (/Users/makkimaki/Desktop/intro_git/.texpadtmp/first.aux) ) 
+Here is how much of TeX's memory you used:
+ 222 strings out of 492916
+ 2796 string characters out of 6133345
+ 64431 words of memory out of 5000000
+ 4357 multiletter control sequences out of 15000+600000
+ 3648 words of font info for 15 fonts, out of 8000000 for 9000
+ 1348 hyphenation exceptions out of 8191
+ 22i,4n,18p,266b,107s stack positions out of 5000i,500n,10000p,200000b,80000s
+
+Output written on /Users/makkimaki/Desktop/intro_git/.texpadtmp/first.pdf (1 page).
