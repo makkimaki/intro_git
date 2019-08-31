@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019) (preloaded format=xelatex 2019.7.12)  29 AUG 2019 23:49
+This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019) (preloaded format=xelatex 2019.7.12)  31 AUG 2019 19:36
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -75,6 +75,6 @@ Here is how much of TeX's memory you used:
  4357 multiletter control sequences out of 15000+600000
  3648 words of font info for 15 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 22i,4n,18p,266b,107s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 22i,4n,18p,275b,107s stack positions out of 5000i,500n,10000p,200000b,80000s
 
 Output written on /Users/makkimaki/Desktop/intro_git/.texpadtmp/first.pdf (1 page).

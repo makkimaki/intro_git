@@ -3,3 +3,4 @@ git practice
 ・git add
 ・git commit
 /git rm
+多々美追加sだ！！
