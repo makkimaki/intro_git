@@ -4,3 +4,4 @@ git practice
 ・git commit
 /git rm
 多々美追加sだ！！
+/ git status
