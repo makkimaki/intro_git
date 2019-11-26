@@ -4,3 +4,4 @@ learn a basic workflow!
 git add
 git commit
 git commit2
+git rm
